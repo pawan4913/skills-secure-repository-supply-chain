@@ -1,5 +1,5 @@
 {
-  "name": "azure_provision",
+  "name": "@pawan4913/azure-provision",
   "version": "1.0.0",
   "description": "provision to azure cloud",
   "main": "provisionComposer.js",
